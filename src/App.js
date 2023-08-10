@@ -6,7 +6,11 @@ function App() {
     <div className="App">
       <Weather />
       <p>
-        <a href="#" target="_blank" rel="noopener">
+        <a
+          href="https://github.com/LesiaPr/weather-react"
+          target="_blank"
+          rel="noopener"
+        >
           Open-source code
         </a>
         , by Lesia Pr.
