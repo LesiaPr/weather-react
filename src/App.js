@@ -9,7 +9,7 @@ function App() {
         <a
           href="https://github.com/LesiaPr/weather-react"
           target="_blank"
-          rel="noopener"
+          rel="noreferrer"
         >
           Open-source code
         </a>
